@@ -1,2 +1,3 @@
-# DeformSampler
-A novel deep learning method for enhancing the PatchMatch Multi-View Stereo (MVS) pipeline
+# DS-PMNet(DeformSampler)
+Official implementation of "DS-PMNet:Learning Deformable Hypothesis Sampling for Accurate PatchMatch Multi-View Stereo"
+The code is coming soon.
